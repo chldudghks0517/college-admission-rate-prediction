@@ -38,11 +38,9 @@ The notebook includes:
 ## Dataset
 
 The project uses the US Department of Education College Scorecard
-Most Recent Institution-Level Data.
+Most Recent Institution-Level Data found here:
 
-The notebook expects the following CSV file to be stored in the same directory:
-
-`Most-Recent-Cohorts-Institution.csv`
+https://collegescorecard.ed.gov/data/
 
 ## Python Libraries
 
